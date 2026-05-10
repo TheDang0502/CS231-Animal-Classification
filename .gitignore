@@ -1,0 +1,14 @@
+# Models
+modules/*.pkl
+modules/*.h5
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoint
+.ipynb_checkpoints/
+
+# Large generated files
+*.npy
+*.npz
