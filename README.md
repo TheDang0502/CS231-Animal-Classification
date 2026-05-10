@@ -1,6 +1,6 @@
 # 🐾 Animal Image Classifier
 
-An animal image classification project using both **traditional computer vision techniques** and **deep learning feature extraction methods** combined with a **Random Forest classifier**.
+An animal image classification project using both **HOG traditional computer vision techniques** and **VGG16 deep learning feature extraction methods** combined with a **Random Forest classifier**.
 
 Developed for the **CS231 – Computer Vision** course.
 
